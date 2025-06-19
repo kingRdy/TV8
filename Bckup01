@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beIN Sports HDTV (English)" tvg-logo="https://i.ibb.co.com/v1bpVxN/beinxtraen.png" group-title="SPORTS🏅",BEIN SPORTS XTRA 🇺🇸
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.png" group-title="SPORTS🏅",BEIN SPORTS XTRA En Español 🇺🇸
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.png" group-title="SPORTS🏅",BEIN SPORTS XTRA En Español 🇺🇸
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.png" group-title="SPORTS🏅",BEIN SPORTS XTRA En Español 🇺🇸
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.png" group-title="SPORTS🏅",BEIN SPORTS XTRA En Español 🇺🇸
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS🏅",Caze TV 🇧🇷
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-id="DAZN Womens Football" tvg-logo="https://i.ibb.co.com/vB6Fqrw/daznwomensfootball.png" group-title="SPORTS🏅",DAZN WOMEN'S FOOTBALL
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/r5B1fx1/daznpll.png" group-title="SPORTS🏅",DAZN x PLL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pll-network-ww/PLL_SCTE.m3u8
+#EXTINF:-1 tvg-id="GB26000118T" tvg-logo="https://i.ibb.co.com/BGSvPQ8/dfbplay.png" group-title="SPORTS🏅",DFB Play TV
+https://jmp2.uk/sam-GB26000118T.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 1 HD.ps" tvg-logo="https://i.ibb.co.com/dmsK66h/dubaisp1.png" group-title="SPORTS🏅",DUBAI SPORTS 1 🇦🇪
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 2.ps" tvg-logo="https://i.ibb.co.com/9rnxSWT/dubaisp2.png" group-title="SPORTS🏅",DUBAI SPORTS 2 🇦🇪
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 3.ps" tvg-logo="https://i.ibb.co.com/93n8P7y/dubaisp3.png" group-title="SPORTS🏅",DUBAI SPORTS 3 🇦🇪
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="GBBD1100008YW" tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png" group-title="SPORTS🏅",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png" group-title="SPORTS🏅",FIFA+
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="FightNetwork" tvg-logo="https://i.ibb.co.com/YB4Z45g/fightnetwork.png" group-title="SPORTS🏅",FIGHT NETWORK
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS🏅",FOX DEPORTES 🇺🇸
+https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="SPORTS🏅",FOX SPORTS 1 🇺🇸
+https://jmp2.uk/sam-US2700001QY.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co.com/JWYjRrF/fs1.png" group-title="SPORTS🏅",FOX SPORTS 1 🇺🇸
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+#EXTINF:-1 tvg-id="MTRSPT 1" tvg-logo="https://i.ibb.co.com/K27Dn14/MTRSPT1.png" group-title="SPORTS🏅",MTRSPT 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-logo="https://i.ibb.co.com/JzfHXNp/motorvision.png" group-title="SPORTS🏅",MOTORVISION 🇩🇪
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="GBBB1500005BH" tvg-logo="" group-title="SPORTS🏅",PGA Tour
+https://live-manifest.production-public.tubi.io/live/5efa4318-2569-4979-97b9-ad984427ba37/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/bHkqL9p/rallytv.png" group-title="SPORTS🏅",RALLY TV 🟠
+https://freqsyndlin.rally.tv/583/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/bHkqL9p/rallytv.png" group-title="SPORTS🏅",RALLY TV
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://i.ibb.co.com/DpW536k/realmadridtv.png" group-title="SPORTS🏅",Real Madrid TV 🇪🇸
+https://live-manifest.production-public.tubi.io/live/08bf183c-0d2b-405a-b31b-e30f758e5f32/playlist.m3u8
+#EXTINF:-1 tvg-id="GBBD2300003IK" tvg-logo="https://i.ibb.co.com/qkh570c/redbulltv.png" group-title="SPORTS🏅",REDBULL TV 🌏
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="GBBD2300003IK" tvg-logo="https://i.ibb.co.com/qkh570c/redbulltv.png" group-title="SPORTS🏅",REDBULL TV 🌏
+https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
+#EXTINF:-1 tvg-id="Si Solo Calcio.it" tvg-logo="https://i.ibb.co.com/7Q5vVhy/sportitaliaplus.png" group-title="SPORTS🏅",Si Solo Calcio 🇮🇹
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Si Solo Calcio.it" tvg-logo="https://i.ibb.co.com/7Q5vVhy/sportitaliaplus.png" group-title="SPORTS🏅",Si Solo Calcio 🇮🇹
+https://italiansport-solocalcio-samsung.amagi.tv/amRdirect/device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&gdpr=%7BGDPR%7D/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/1280x720_2560800/index.m3u8
+#EXTINF:-1 tvg-id="GBBC90001089" tvg-logo="" group-title="SPORTS🏅",Strongman Champions League
+https://jmp2.uk/sam-GBBC90001089.m3u8
+#EXTINF:-1 tvg-id="GBBA33000529G" tvg-logo="https://i.ibb.co.com/MfLxms6/tennisch.png" group-title="SPORTS🏅",Tennis Channel International
+https://jmp2.uk/sam-ATBA2200008XN.m3u8
+#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://i.ibb.co.com/mbwFfNY/tdp.png" group-title="SPORTS🏅",TDP 🇪🇸
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/0GVvr3y/tigosports.png" group-title="SPORTS🏅",TIGGO SPORT 🇬🇹
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS🏅",TVN SPORTS
+https://jmp2.uk/sam-KRBC800015MH.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K7QZzcD/uzsport.png" group-title="SPORTS🏅",UZ SPORT 🇺🇿
+https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K7QZzcD/uzsport.png" group-title="SPORTS🏅",UZ SPORT 🇺🇿
+https://stream1.cinerama.uz/1004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS🏅",Women's Sports Network
+https://jmp2.uk/sam-US4100001KP.m3u8
+#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-logo="https://i.ibb.co.com/2FGJLGg/abckids.png" group-title="KIDS😜",ABC KIDS 🇦🇺
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 tvg-id="mjh-abc-me" tvg-logo="https://i.ibb.co.com/rkFbwRV/abcme.png" group-title="KIDS😜",ABC ME 🇦🇺
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="INBC280001662" tvg-logo="https://i.ibb.co.com/HTHDJ7q/babi1st.png" group-title="KIDS😜",BABY FIRST 🇺🇸
+https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co.com/Rpn0Rrf/babyshark.png" group-title="KIDS😜",Baby Shark TV 🇰🇷
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co.com/Rpn0Rrf/babyshark.png" group-title="KIDS😜",Baby Shark TV 🇰🇷
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949fff44-b258-11ee-9039-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ecdfec3-b265-4c95-95f0-dffffa891a9f&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/R2JqbjY/bkids.png" group-title="KIDS😜",B KIDS 🇮🇩
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/R2JqbjY/bkids.png" group-title="KIDS😜",B KIDS 🇮🇩
+https://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+#EXTINF:-1 tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://i.ibb.co.com/C29CLPp/doratv.png" group-title="KIDS😜",Dora TV 🇺🇸
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949ffd00-b258-11ee-b9bb-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a228f049-3e34-4c61-88b3-7b47e6a36cf5&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/tJX1NDf/kidoodletv.png" group-title="KIDS😜",KIDOODLE TV 🇺🇸
+https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/qNpjCYr/kidsflix.png" group-title="KIDS😜",KIDSFLIX
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://i.ibb.co.com/QkNWGtG/legokidstv.png" group-title="KIDS😜",LEGO Kids TV 🇺🇸
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a0043a-b258-11ee-b6c7-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bca05fe1-d777-48d3-80f2-58183408d1d1&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/qrhGpfd/pbskids.png" group-title="KIDS😜",PBS KIDS 🇺🇸
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/ydz4SLT/toonzkids.png" group-title="KIDS😜",TOONZKIDS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+#EXTINF:-1 tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://i.ibb.co.com/3BDrBvR/transformers.png" group-title="KIDS😜",Transformers TV 🇺🇸
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a002fa-b258-11ee-a982-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc17f96c-eab5-42c7-bb41-6e9a3c683eeb&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="USBC2400019EF" tvg-logo="https://i.ibb.co.com/Kh5Mwfd/zoomoo.png" group-title="KIDS😜",ZOO MOO 🇳🇿
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USBD700011RE" tvg-logo="https://i.ibb.co.com/MGpRSMj/gravitasmovies.png" group-title="MOVIES🍿",GRAVITAS MOVIES
+https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/playlist.m3u8
+#EXTINF:-1 tvg-id="USBD300002TU" tvg-logo="https://i.ibb.co.com/KVh2kfQ/ion.png" group-title="MOVIES🍿",ION
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+#EXTINF:-1 tvg-id="USBD300003LK" tvg-logo="https://i.ibb.co.com/LnJSkjh/ionplus.png" group-title="MOVIES🍿",ION PLUS
+https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
+#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-logo="https://i.ibb.co.com/wp5SdpW/cnbcindo.png" group-title="NASIONAL📺",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/7NvJhWJ/cnnindo.png" group-title="NASIONAL📺",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/hV6Z2SP/magna.png" group-title="NASIONAL📺",MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Vvtcxd4/mgn.png" group-title="NASIONAL📺",METRO GLOBE NETWORK 🇮🇩
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://i.ibb.co.com/dJrj97X/nusantaratv.png" group-title="NASIONAL📺",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/KxLH0R7/ugtv.png" group-title="NASIONAL📺",UGTV 🇮🇩
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
