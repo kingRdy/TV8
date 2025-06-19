@@ -1,84 +1,85 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+
+
 #EXTINF:-1 tvg-id="RCTI" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-l.png" ch-number="1", RCTI
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=1
 http://queenxelite.koyeb.app/vision/index.mpd?id=1
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+
 #EXTINF:-1 tvg-id="MNC TV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-l.png" ch-number="2", MNC TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=2
 http://queenxelite.koyeb.app/vision/index.mpd?id=2
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+
 #EXTINF:-1 tvg-id="GTV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-l.png" ch-number="3", GTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=3
 http://queenxelite.koyeb.app/vision/index.mpd?id=3
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+
 #EXTINF:-1 tvg-id="iNews" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-l.png" ch-number="4", iNews
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=4
 http://queenxelite.koyeb.app/vision/index.mpd?id=4
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+
 #EXTINF:-1 tvg-id="SINDONEWS TV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-l.png" ch-number="5", SINDONEWS TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=5
 http://queenxelite.koyeb.app/vision/index.mpd?id=5
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+
 #EXTINF:-1 tvg-id="Trans TV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-l.png" ch-number="6", Trans TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=6
 http://queenxelite.koyeb.app/vision/index.mpd?id=6
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+
 #EXTINF:-1 tvg-id="Trans 7" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-l.png" ch-number="7", Trans 7
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=7
 http://queenxelite.koyeb.app/vision/index.mpd?id=7
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+
 #EXTINF:-1 tvg-id="ANTV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-l.png" ch-number="10", ANTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=10
 http://queenxelite.koyeb.app/vision/index.mpd?id=10
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+
 #EXTINF:-1 tvg-id="RTV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-l.png" ch-number="11", RTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=11
 http://queenxelite.koyeb.app/vision/index.mpd?id=11
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+
 #EXTINF:-1 tvg-id="TV One" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-l.png" ch-number="12", TV One
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=12
 http://queenxelite.koyeb.app/vision/index.mpd?id=12
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+
 #EXTINF:-1 tvg-id="Kompas TV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-l.png" ch-number="13", Kompas TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=13
 http://queenxelite.koyeb.app/vision/index.mpd?id=13
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+
 #EXTINF:-1 tvg-id="Metro TV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-l.png" ch-number="14", Metro TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=14
 http://queenxelite.koyeb.app/vision/index.mpd?id=14
@@ -216,23 +217,23 @@ http://queenxelite.koyeb.app/vision/index.mpd?id=41
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=42
 http://queenxelite.koyeb.app/vision/index.mpd?id=42
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+
 #EXTINF:-1 tvg-id="Celestial Movies" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-l.png" ch-number="44", Celestial Movies
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=44
 http://queenxelite.koyeb.app/vision/index.mpd?id=44
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+
 #EXTINF:-1 tvg-id="CCM" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-l.png" ch-number="45", CCM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=45
 http://queenxelite.koyeb.app/vision/index.mpd?id=45
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+
 #EXTINF:-1 tvg-id="TVN Movies" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-l.png" ch-number="46", TVN Movies
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=46
 http://queenxelite.koyeb.app/vision/index.mpd?id=46
