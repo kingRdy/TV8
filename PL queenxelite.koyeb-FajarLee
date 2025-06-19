@@ -1,0 +1,806 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="RCTI" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-l.png" ch-number="1", RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=1
+http://queenxelite.koyeb.app/vision/index.mpd?id=1
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="MNC TV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-l.png" ch-number="2", MNC TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=2
+http://queenxelite.koyeb.app/vision/index.mpd?id=2
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="GTV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-l.png" ch-number="3", GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=3
+http://queenxelite.koyeb.app/vision/index.mpd?id=3
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="iNews" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-l.png" ch-number="4", iNews
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=4
+http://queenxelite.koyeb.app/vision/index.mpd?id=4
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="SINDONEWS TV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-l.png" ch-number="5", SINDONEWS TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=5
+http://queenxelite.koyeb.app/vision/index.mpd?id=5
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Trans TV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-l.png" ch-number="6", Trans TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=6
+http://queenxelite.koyeb.app/vision/index.mpd?id=6
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Trans 7" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-l.png" ch-number="7", Trans 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=7
+http://queenxelite.koyeb.app/vision/index.mpd?id=7
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="ANTV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-l.png" ch-number="10", ANTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=10
+http://queenxelite.koyeb.app/vision/index.mpd?id=10
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="RTV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-l.png" ch-number="11", RTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=11
+http://queenxelite.koyeb.app/vision/index.mpd?id=11
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="TV One" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-l.png" ch-number="12", TV One
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=12
+http://queenxelite.koyeb.app/vision/index.mpd?id=12
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Kompas TV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-l.png" ch-number="13", Kompas TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=13
+http://queenxelite.koyeb.app/vision/index.mpd?id=13
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Metro TV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-l.png" ch-number="14", Metro TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=14
+http://queenxelite.koyeb.app/vision/index.mpd?id=14
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="BTV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-l.png" ch-number="15", BTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=15
+http://queenxelite.koyeb.app/vision/index.mpd?id=15
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="TVRI" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-l.png" ch-number="16", TVRI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=16
+http://queenxelite.koyeb.app/vision/index.mpd?id=16
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="SEA TODAY" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/594/594-LOGO-l.png" ch-number="17", SEA TODAY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=17
+http://queenxelite.koyeb.app/vision/index.mpd?id=17
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="DAAI TV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-l.png" ch-number="18", DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=18
+http://queenxelite.koyeb.app/vision/index.mpd?id=18
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="MD TV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png" ch-number="23", MD TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=23
+http://queenxelite.koyeb.app/vision/index.mpd?id=23
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="JTV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-l.png" ch-number="24", JTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=24
+http://queenxelite.koyeb.app/vision/index.mpd?id=24
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="JAK TV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-l.png" ch-number="25", JAK TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=25
+http://queenxelite.koyeb.app/vision/index.mpd?id=25
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Bali TV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/599/599-LOGO-l.png" ch-number="26", Bali TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=26
+http://queenxelite.koyeb.app/vision/index.mpd?id=26
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Bandung TV" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-l.png" ch-number="27", Bandung TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=27
+http://queenxelite.koyeb.app/vision/index.mpd?id=27
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="TV 9" group-title="Religion" tvg-logo="https://www.visionplus.id/images/repository/601/601-LOGO-l.png" ch-number="28", TV 9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=28
+http://queenxelite.koyeb.app/vision/index.mpd?id=28
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Tawaf" group-title="Religion" tvg-logo="https://www.visionplus.id/images/repository/602/602-LOGO-l.png" ch-number="29", Tawaf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=29
+http://queenxelite.koyeb.app/vision/index.mpd?id=29
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="TVMU" group-title="Religion" tvg-logo="https://www.visionplus.id/images/repository/603/603-LOGO-l.png" ch-number="30", TVMU
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=30
+http://queenxelite.koyeb.app/vision/index.mpd?id=30
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Originals" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-l.png" ch-number="36", Originals
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=36
+http://queenxelite.koyeb.app/vision/index.mpd?id=36
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Buddy Stars" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-l.png" ch-number="37", Buddy Stars
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=37
+http://queenxelite.koyeb.app/vision/index.mpd?id=37
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Uniques" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-l.png" ch-number="38", Uniques
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=38
+http://queenxelite.koyeb.app/vision/index.mpd?id=38
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Superrix" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png" ch-number="39", Superrix
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=39
+http://queenxelite.koyeb.app/vision/index.mpd?id=39
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Cinneedge" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-l.png" ch-number="40", Cinneedge
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=40
+http://queenxelite.koyeb.app/vision/index.mpd?id=40
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Thrill" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-l.png" ch-number="41", Thrill
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=41
+http://queenxelite.koyeb.app/vision/index.mpd?id=41
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Hits Movies" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/610/610-LOGO-l.png" ch-number="42", Hits Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=42
+http://queenxelite.koyeb.app/vision/index.mpd?id=42
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Celestial Movies" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-l.png" ch-number="44", Celestial Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=44
+http://queenxelite.koyeb.app/vision/index.mpd?id=44
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="CCM" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-l.png" ch-number="45", CCM
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=45
+http://queenxelite.koyeb.app/vision/index.mpd?id=45
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="TVN Movies" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-l.png" ch-number="46", TVN Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=46
+http://queenxelite.koyeb.app/vision/index.mpd?id=46
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Zee Bioskop" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/615/615-LOGO-l.png" ch-number="47", Zee Bioskop
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=47
+http://queenxelite.koyeb.app/vision/index.mpd?id=47
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Kids TV" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-l.png" ch-number="56", Kids TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=56
+http://queenxelite.koyeb.app/vision/index.mpd?id=56
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Moonbug" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-l.png" ch-number="57", Moonbug
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=57
+http://queenxelite.koyeb.app/vision/index.mpd?id=57
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Cbeebies" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/624/624-LOGO-l.png" ch-number="58", Cbeebies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=58
+http://queenxelite.koyeb.app/vision/index.mpd?id=58
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Nick Jr" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-l.png" ch-number="60", Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=60
+http://queenxelite.koyeb.app/vision/index.mpd?id=60
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Zoo Moo" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-l.png" ch-number="63", Zoo Moo
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=63
+http://queenxelite.koyeb.app/vision/index.mpd?id=63
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Nick" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-l.png" ch-number="64", Nick
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=64
+http://queenxelite.koyeb.app/vision/index.mpd?id=64
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Animax" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-l.png" ch-number="65", Animax
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=65
+http://queenxelite.koyeb.app/vision/index.mpd?id=65
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Food Travel" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-l.png" ch-number="71", Food Travel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=71
+http://queenxelite.koyeb.app/vision/index.mpd?id=71
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Entertainment" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-l.png" ch-number="72", Entertainment
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=72
+http://queenxelite.koyeb.app/vision/index.mpd?id=72
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="TVN" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/633/633-LOGO-l.png" ch-number="73", TVN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=73
+http://queenxelite.koyeb.app/vision/index.mpd?id=73
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="One" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-l.png" ch-number="74", One
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=74
+http://queenxelite.koyeb.app/vision/index.mpd?id=74
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Kix" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-l.png" ch-number="75", Kix
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=75
+http://queenxelite.koyeb.app/vision/index.mpd?id=75
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="NHK World Premium" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-l.png" ch-number="76", NHK World Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=76
+http://queenxelite.koyeb.app/vision/index.mpd?id=76
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Hits" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/637/637-LOGO-l.png" ch-number="77", Hits
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=77
+http://queenxelite.koyeb.app/vision/index.mpd?id=77
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="AXN" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-l.png" ch-number="79", AXN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=79
+http://queenxelite.koyeb.app/vision/index.mpd?id=79
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Lifetime" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-l.png" ch-number="80", Lifetime
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=80
+http://queenxelite.koyeb.app/vision/index.mpd?id=80
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Vision Prime" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-l.png" ch-number="87", Vision Prime
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=87
+http://queenxelite.koyeb.app/vision/index.mpd?id=87
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Celebrities TV" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/642/642-LOGO-l.png" ch-number="88", Celebrities TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=88
+http://queenxelite.koyeb.app/vision/index.mpd?id=88
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Hanacaraka TV" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-l.png" ch-number="89", Hanacaraka TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=89
+http://queenxelite.koyeb.app/vision/index.mpd?id=89
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Rock Entertainment" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-l.png" ch-number="92", Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=92
+http://queenxelite.koyeb.app/vision/index.mpd?id=92
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Rock Action" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-l.png" ch-number="93", Rock Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=93
+http://queenxelite.koyeb.app/vision/index.mpd?id=93
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Crime Investigation" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/646/646-LOGO-l.png" ch-number="95", Crime Investigation
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=95
+http://queenxelite.koyeb.app/vision/index.mpd?id=95
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Outdoor Channel" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-l.png" ch-number="101", Outdoor Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=101
+http://queenxelite.koyeb.app/vision/index.mpd?id=101
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="BBC Earth" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/648/648-LOGO-l.png" ch-number="102", BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=102
+http://queenxelite.koyeb.app/vision/index.mpd?id=102
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Global Trekker" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-l.png" ch-number="103", Global Trekker
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=103
+http://queenxelite.koyeb.app/vision/index.mpd?id=103
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="History" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-l.png" ch-number="104", History
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=104
+http://queenxelite.koyeb.app/vision/index.mpd?id=104
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Love Nature" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/682/295682-LOGO-l.png" ch-number="105", Love Nature
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=105
+http://queenxelite.koyeb.app/vision/index.mpd?id=105
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Sportstars" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-l.png" ch-number="112", Sportstars
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=112
+http://queenxelite.koyeb.app/vision/index.mpd?id=112
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Sportstars 2" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-l.png" ch-number="113", Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=113
+http://queenxelite.koyeb.app/vision/index.mpd?id=113
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Soccer Channel" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-l.png" ch-number="115", Soccer Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=115
+http://queenxelite.koyeb.app/vision/index.mpd?id=115
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="SpoTV 1" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-l.png" ch-number="119", SpoTV 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=119
+http://queenxelite.koyeb.app/vision/index.mpd?id=119
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="SpoTV 2" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-l.png" ch-number="120", SpoTV 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=120
+http://queenxelite.koyeb.app/vision/index.mpd?id=120
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Fight Sports" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-l.png" ch-number="121", Fight Sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=121
+http://queenxelite.koyeb.app/vision/index.mpd?id=121
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="beIN SPORTS" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" ch-number="122", beIN SPORTS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=122
+http://queenxelite.koyeb.app/vision/index.mpd?id=122
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="beIN SPORTS 2" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-l.png" ch-number="123", beIN SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=123
+http://queenxelite.koyeb.app/vision/index.mpd?id=123
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="beIN SPORTS 3" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-l.png" ch-number="124", beIN SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=124
+http://queenxelite.koyeb.app/vision/index.mpd?id=124
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="beIN SPORTS 4" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-l.png" ch-number="125", beIN SPORTS 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=125
+http://queenxelite.koyeb.app/vision/index.mpd?id=125
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="beIN SPORTS 5" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-l.png" ch-number="126", beIN SPORTS 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=126
+http://queenxelite.koyeb.app/vision/index.mpd?id=126
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="BBC World news" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/660/660-LOGO-l.png" ch-number="130", BBC World news
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=130
+http://queenxelite.koyeb.app/vision/index.mpd?id=130
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="CNBC Asia" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/365/132365-LOGO-l.png" ch-number="131", CNBC Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=131
+http://queenxelite.koyeb.app/vision/index.mpd?id=131
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="FOX News" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/662/662-LOGO-l.png" ch-number="132", FOX News
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=132
+http://queenxelite.koyeb.app/vision/index.mpd?id=132
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Bloomberg" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/663/663-LOGO-l.png" ch-number="133", Bloomberg
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=133
+http://queenxelite.koyeb.app/vision/index.mpd?id=133
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="IDX" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-l.png" ch-number="134", IDX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=134
+http://queenxelite.koyeb.app/vision/index.mpd?id=134
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Muslim TV" group-title="Religion" tvg-logo="https://www.visionplus.id/images/repository/664/664-LOGO-l.png" ch-number="137", Muslim TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=137
+http://queenxelite.koyeb.app/vision/index.mpd?id=137
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="LIFE" group-title="Religion" tvg-logo="https://www.visionplus.id/images/repository/665/665-LOGO-l.png" ch-number="138", LIFE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=138
+http://queenxelite.koyeb.app/vision/index.mpd?id=138
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Reformed 21" group-title="Religion" tvg-logo="https://www.visionplus.id/images/repository/666/666-LOGO-l.png" ch-number="139", Reformed 21
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=139
+http://queenxelite.koyeb.app/vision/index.mpd?id=139
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Music TV" group-title="Music" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-l.png" ch-number="142", Music TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=142
+http://queenxelite.koyeb.app/vision/index.mpd?id=142
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="MTV Live" group-title="Music" tvg-logo="https://www.visionplus.id/images/repository/668/668-LOGO-l.png" ch-number="143", MTV Live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=143
+http://queenxelite.koyeb.app/vision/index.mpd?id=143
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="MTV 90s" group-title="Music" tvg-logo="https://www.visionplus.id/images/repository/669/669-LOGO-l.png" ch-number="144", MTV 90s
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=144
+http://queenxelite.koyeb.app/vision/index.mpd?id=144
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="DW" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/670/670-LOGO-l.png" ch-number="146", DW
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=146
+http://queenxelite.koyeb.app/vision/index.mpd?id=146
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="France 24" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/671/671-LOGO-l.png" ch-number="147", France 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=147
+http://queenxelite.koyeb.app/vision/index.mpd?id=147
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="TRT World" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/672/672-LOGO-l.png" ch-number="148", TRT World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=148
+http://queenxelite.koyeb.app/vision/index.mpd?id=148
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Aljazeera" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/850/850-LOGO-l.png" ch-number="149", Aljazeera
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=149
+http://queenxelite.koyeb.app/vision/index.mpd?id=149
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="RT" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/674/674-LOGO-l.png" ch-number="150", RT
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=150
+http://queenxelite.koyeb.app/vision/index.mpd?id=150
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="EURONEWS" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/675/675-LOGO-l.png" ch-number="151", EURONEWS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=151
+http://queenxelite.koyeb.app/vision/index.mpd?id=151
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Channel News Asia" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/847/847-LOGO-l.png" ch-number="152", Channel News Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=152
+http://queenxelite.koyeb.app/vision/index.mpd?id=152
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Al Quran Al Kareem" group-title="Religion" tvg-logo="https://www.visionplus.id/images/repository/677/677-LOGO-l.png" ch-number="153", Al Quran Al Kareem
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=153
+http://queenxelite.koyeb.app/vision/index.mpd?id=153
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="EWTN" group-title="Religion" tvg-logo="https://www.visionplus.id/images/repository/678/678-LOGO-l.png" ch-number="154", EWTN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=154
+http://queenxelite.koyeb.app/vision/index.mpd?id=154
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="CGTN Documentary" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/679/679-LOGO-l.png" ch-number="155", CGTN Documentary
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=155
+http://queenxelite.koyeb.app/vision/index.mpd?id=155
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="CGTN" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/680/680-LOGO-l.png" ch-number="156", CGTN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=156
+http://queenxelite.koyeb.app/vision/index.mpd?id=156
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Anhui" group-title="Lifestyle" tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-l.png" ch-number="157", Anhui
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=157
+http://queenxelite.koyeb.app/vision/index.mpd?id=157
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Xing kong TV" group-title="Lifestyle" tvg-logo="https://www.visionplus.id/images/repository/858/858-LOGO-l.png" ch-number="158", Xing kong TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=158
+http://queenxelite.koyeb.app/vision/index.mpd?id=158
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Shanghai Dragon" group-title="Lifestyle" tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-l.png" ch-number="159", Shanghai Dragon
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=159
+http://queenxelite.koyeb.app/vision/index.mpd?id=159
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Hunan TV" group-title="Lifestyle" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-l.png" ch-number="160", Hunan TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=160
+http://queenxelite.koyeb.app/vision/index.mpd?id=160
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Jiangsu TV" group-title="Lifestyle" tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-l.png" ch-number="161", Jiangsu TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=161
+http://queenxelite.koyeb.app/vision/index.mpd?id=161
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="NHK" group-title="Lifestyle" tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-l.png" ch-number="162", NHK
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=162
+http://queenxelite.koyeb.app/vision/index.mpd?id=162
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="TV5Monde" group-title="Lifestyle" tvg-logo="https://www.visionplus.id/images/repository/687/687-LOGO-l.png" ch-number="163", TV5Monde
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=163
+http://queenxelite.koyeb.app/vision/index.mpd?id=163
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Arirang" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/688/688-LOGO-l.png" ch-number="164", Arirang
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=164
+http://queenxelite.koyeb.app/vision/index.mpd?id=164
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="ABC" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/689/689-LOGO-l.png" ch-number="165", ABC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=165
+http://queenxelite.koyeb.app/vision/index.mpd?id=165
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="RCTI World" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/426/173426-LOGO-l.png" ch-number="201", RCTI World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=201
+http://queenxelite.koyeb.app/vision/index.mpd?id=201
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="GTV World" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/424/173424-LOGO-l.png" ch-number="202", GTV World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=202
+http://queenxelite.koyeb.app/vision/index.mpd?id=202
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="MNC TV World" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/425/173425-LOGO-l.png" ch-number="203", MNC TV World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=203
+http://queenxelite.koyeb.app/vision/index.mpd?id=203
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="Drama World" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-l.png" ch-number="204", Drama World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=204
+http://queenxelite.koyeb.app/vision/index.mpd?id=204
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="V+ LIVE" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/444/92444-LOGO-m.png" ch-number="1002", V+ LIVE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=1002
+http://queenxelite.koyeb.app/vision/index.mpd?id=1002
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="R+ Live" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/817/138817-LOGO-l.png" ch-number="1008", R+ Live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=1008
+http://queenxelite.koyeb.app/vision/index.mpd?id=1008
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="V+ LIVE 2" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/710/112710-LOGO-l.png" ch-number="1010", V+ LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=1010
+http://queenxelite.koyeb.app/vision/index.mpd?id=1010
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="V+ Sport" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-l.png" ch-number="1011", V+ Sport
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=1011
+http://queenxelite.koyeb.app/vision/index.mpd?id=1011
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="V+ LIVE 3" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/698/129698-LOGO-l.png" ch-number="1012", V+ LIVE 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=1012
+http://queenxelite.koyeb.app/vision/index.mpd?id=1012
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="V+ LIVE 4" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/509/128509-LOGO-l.png" ch-number="1013", V+ LIVE 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=1013
+http://queenxelite.koyeb.app/vision/index.mpd?id=1013
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTHTTP:{"X-Token":"b52fa05c6da38c9a5a97ad10322813f859426c344c6b71654179704e33686f4b70557579534964507a4b536c526f452f4547307155705755386a493d"}
+#EXTINF:-1 tvg-id="V+ Live 5" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/287/191287-LOGO-l.png" ch-number="1014", V+ Live 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://queenxelite.koyeb.app/vision/drm.php?id=1014
+http://queenxelite.koyeb.app/vision/index.mpd?id=1014
+
